@@ -1,5 +1,7 @@
 # Robot Name
 
+Please note: I wrote the robot_name.cpp and robot_name.h files. I did not write robot_name_test.cpp file. Thanks, Walt
+
 Manage robot factory settings.
 
 When robots come off the factory floor, they have no name.
